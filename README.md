@@ -1,5 +1,5 @@
 # built_python
-Road map for learning python for those in the built environment. Includes suggested reading for technical audiences, links relevant projects, and general tips (tba). Currently more general, will add specifics relevant to AEC as time permits.
+Road map for learning python for those in the built environment. Includes suggested reading for technical audiences, links, relevant projects, and general tips (tba). Currently more general, will add specifics relevant to AEC as time permits.
 
 
 ## Suggested repositories
