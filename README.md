@@ -40,7 +40,7 @@ Crowdsource your programming questions (after you thoroughly search the archive)
 Interactive way to learn git basics.
 
 ## Json 
-Wikipedia (https://en.wikipedia.org/wiki/JSON)
+[Wikipedia](https://en.wikipedia.org/wiki/JSON)
 
 Human readable "lightweight" way of storing data as key value pairs. Plays well with Python and most programming languages.
 
