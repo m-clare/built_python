@@ -55,3 +55,8 @@ Human readable "lightweight" way of storing data as key value pairs. Plays well 
 
 [A Philosophy of Software Design - John Osterhout](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 
+## Open Source FEA written in Python or with Python wrappers
+
+[FEniCS Project](https://fenicsproject.org/)
+
+[Code Aster](https://www.code-aster.org/V2/spip.php?rubrique2)
