@@ -45,6 +45,10 @@ Interactive way to learn git basics.
 Human readable "lightweight" way of storing data as key value pairs. Plays well with Python and most programming languages.
 
 ## Suggested reading (theory/coding practices, etc.)
+[Writing Beautiful Pythonic Code with PEP 8](https://realpython.com/courses/writing-beautiful-python-code-pep-8/)
+
+Style guide for python code
+
 [Python Tricks - Dan Bader](https://dbader.org/products/python-tricks-book/)
 
 [Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
